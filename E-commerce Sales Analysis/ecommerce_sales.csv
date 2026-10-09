@@ -1,0 +1,41 @@
+order_id,product,category,year,order_type,price,quantity,result
+2001,Laptop,Electronics,2020,Regular,850,2,Completed
+2002,T-Shirt,Clothing,2020,Regular,25,5,Completed
+2003,Coffee Maker,Home,2020,Regular,120,2,Completed
+2004,Headphones,Electronics,2020,Online,80,3,Completed
+2005,Jeans,Clothing,2020,Regular,60,4,Cancelled
+2006,Desk Lamp,Home,2021,Regular,45,6,Completed
+2007,Smartphone,Electronics,2021,Regular,650,2,Completed
+2008,Running Shoes,Sports,2021,Online,95,3,Completed
+2009,Backpack,Accessories,2021,Regular,70,4,Completed
+2010,T-Shirt,Clothing,2021,Regular,25,8,Completed
+2011,Tablet,Electronics,2022,Regular,300,2,Completed
+2012,Coffee Maker,Home,2022,Regular,120,3,Cancelled
+2013,Jeans,Clothing,2022,Online,60,5,Completed
+2014,Basketball,Sports,2022,Regular,30,7,Completed
+2015,Watch,Accessories,2022,Regular,120,2,Completed
+2016,Laptop,Electronics,2023,Online,850,1,Completed
+2017,Hoodie,Clothing,2023,Regular,55,4,Completed
+2018,Office Chair,Home,2023,Regular,180,2,Completed
+2019,Football,Sports,2023,Regular,40,6,Cancelled
+2020,Backpack,Accessories,2023,Online,70,3,Completed
+2021,Headphones,Electronics,2020,Regular,80,4,Completed
+2022,Jeans,Clothing,2020,Online,60,3,Completed
+2023,Desk Lamp,Home,2021,Regular,45,5,Completed
+2024,Smartphone,Electronics,2021,Regular,650,1,Cancelled
+2025,Running Shoes,Sports,2022,Regular,95,4,Completed
+2026,Watch,Accessories,2022,Online,120,3,Completed
+2027,Tablet,Electronics,2023,Regular,300,2,Completed
+2028,T-Shirt,Clothing,2023,Regular,25,10,Completed
+2029,Coffee Maker,Home,2020,Online,120,2,Completed
+2030,Basketball,Sports,2021,Regular,30,8,Completed
+2031,Backpack,Accessories,2022,Regular,70,5,Completed
+2032,Laptop,Electronics,2022,Regular,850,1,Completed
+2033,Hoodie,Clothing,2021,Online,55,6,Cancelled
+2034,Office Chair,Home,2023,Regular,180,3,Completed
+2035,Football,Sports,2020,Regular,40,5,Completed
+2036,Watch,Accessories,2021,Regular,120,4,Completed
+2037,Headphones,Electronics,2023,Regular,80,5,Completed
+2038,Jeans,Clothing,2022,Regular,60,7,Completed
+2039,Desk Lamp,Home,2020,Regular,45,9,Completed
+2040,Running Shoes,Sports,2023,Online,95,2,Completed
