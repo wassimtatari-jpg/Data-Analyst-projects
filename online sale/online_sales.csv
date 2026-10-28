@@ -1,0 +1,13 @@
+order_id;product;category;year;quantity;price
+1001;Laptop;Electronics;2020;2;700
+1002;Phone;Electronics;2021;5;300
+1003;Desk;Furniture;2022;3;150
+1004;Chair;Furniture;2021;4;80
+1005;Headphones;Electronics;2020;10;40
+1006;Table;Furniture;2022;2;250
+1007;Tablet;Electronics;2021;3;200
+1008;Lamp;Furniture;2020;6;35
+1009;Monitor;Electronics;2022;4;180
+1010;Bookshelf;Furniture;2021;2;120
+1011;Keyboard;Electronics;2020;8;50
+1012;Sofa;Furniture;2022;1;600
