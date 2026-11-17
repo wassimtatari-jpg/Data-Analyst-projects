@@ -1,0 +1,94 @@
+# Mr. Bean YouTube Data Analysis
+
+## Project Overview
+
+This project explores the performance and audience engagement of Mr. Bean YouTube videos using the YouTube Data API, Python, and Pandas.
+
+The main objective is to collect video data, analyze performance metrics, identify engagement patterns, and generate data-driven business recommendations.
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- YouTube Data API
+- Matplotlib
+- Jupyter Notebook / Python
+
+## Data Collection
+
+Data was collected using the YouTube Data API, covering a sample of 10 Mr. Bean videos.
+
+The collected information included video performance and engagement metrics, such as:
+
+- Video titles
+- Views
+- Likes
+- Comments
+- Video duration
+
+## Data Analysis
+
+The project covers the following analysis sections:
+
+### 1. Video Performance Analysis
+Examined video performance using view counts and other available engagement metrics.
+
+### 2. Audience Engagement Analysis
+Explored audience interaction through likes and comments.
+
+### 3. Comments Analysis
+Investigated comment activity to better understand audience engagement.
+
+### 4. Correlation Analysis
+Explored the relationship between views and comment rate.
+
+The analysis showed a moderate negative correlation of approximately -0.59 between views and comment rate.
+
+This indicates an association within the selected sample, not a causal relationship.
+
+### 5. Video Duration Analysis
+Classified videos into two categories:
+
+- Short Videos
+- Long Videos
+
+Compared the average views between the two categories.
+
+The results showed that long videos had a higher average number of views in the analyzed sample.
+
+## Key Findings
+
+- Video length alone does not guarantee higher performance.
+- Long videos achieved higher average views in this sample.
+- Higher view counts did not necessarily correspond to higher comment rates.
+- Audience engagement requires looking beyond views alone.
+
+## Business Recommendations
+
+Based on the findings, the following recommendations can be considered:
+
+1. Evaluate video performance using multiple engagement metrics rather than views alone.
+2. Explore the characteristics of successful long-form videos to understand what attracts viewers.
+3. Avoid assuming that longer videos automatically perform better.
+4. Monitor comment rates alongside views to obtain a more complete picture of audience engagement.
+5. Conduct further analysis using a larger dataset and a longer observation period before making broader content strategy decisions.
+
+## Limitations
+
+- The analysis is based on a sample of only 10 videos.
+- The findings may not represent the performance of the entire Mr. Bean YouTube channel.
+- Correlation does not imply causation.
+- Further research with a larger dataset is recommended.
+
+
+
+## Conclusion
+
+This project demonstrates the use of Python and Pandas to collect, clean, analyze, and visualize real-world YouTube data.
+
+It also highlights the importance of interpreting data carefully and translating analytical findings into practical business recommendations.
+
+---
+
+**Author:** Mohamed Wassim Tatari  
+**Project:** Mr. Bean YouTube Data Analysis

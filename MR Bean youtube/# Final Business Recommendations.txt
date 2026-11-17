@@ -1,0 +1,59 @@
+# Final Business Recommendations
+## Mr Bean YouTube Video Performance & Audience Engagement Analysis
+
+### 1. Focus on Improving Audience Engagement
+
+Our analysis showed that videos with the highest number of views do not necessarily achieve the highest Like Rate or Comment Rate.
+
+**Recommendation:**
+
+Focus on improving content quality and encouraging viewers to like and comment, rather than concentrating only on increasing total views.
+
+### 2. Review the Video Duration Strategy
+
+Our analysis revealed a positive correlation between video duration and views (+0.703661), but negative correlations between video duration and engagement rates:
+
+- Duration & Like Rate: **-0.707116**
+- Duration & Comment Rate: **-0.620938**
+
+**Recommendation:**
+
+Do not increase video length simply to generate more views. Instead, experiment with different video durations and focus on keeping content engaging and entertaining throughout the video.
+
+### 3. Study Videos with Higher Engagement Rates
+
+The video *Wins the Holiday* achieved the highest Like Rate and the highest Comment Rate in our sample.
+
+**Recommendation:**
+
+Investigate the factors that may have contributed to its high engagement, such as its comedy scenes, content presentation, and video pacing. Consider applying successful elements to future videos and evaluating their performance.
+
+---
+
+## Overall Strategic Recommendation
+
+### Engagement Over Views
+
+We recommend shifting from a strategy focused primarily on increasing views toward a more balanced strategy that considers both audience reach and engagement quality.
+
+The goal should not simply be to attract as many viewers as possible, but also to create content that encourages viewers to like, comment, and continue watching.
+
+---
+
+## Limitations and Further Analysis
+
+This analysis is based on a sample of only 10 Mr Bean videos. Therefore, the findings should be considered preliminary rather than definitive conclusions about the entire channel.
+
+Further analysis using a larger dataset is recommended.
+
+Future research could also include **Audience Retention** data to better understand how video duration and content structure affect viewer engagement.
+
+---
+
+## Conclusion
+
+This project demonstrates how YouTube API data, Python, Pandas, and Matplotlib can be used to explore video performance and audience engagement.
+
+The analysis highlights an important distinction: higher view counts do not necessarily indicate stronger audience engagement.
+
+A successful content strategy should consider both reach and engagement when making decisions about future videos.
